@@ -6,3 +6,12 @@ body{
 .cabecalho-imagem{
     width: 20%;
 }
+
+.cabecalho{
+    display: flex;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 4px;
+}
