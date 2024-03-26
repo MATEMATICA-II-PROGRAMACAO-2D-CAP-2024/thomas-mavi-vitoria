@@ -15,3 +15,10 @@
     margin: 0 16px;
     
 }
+
+.escola{
+display: flex;
+color: white;
+background-image: radial-gradient(circle at 9.44% -7.92%, #00b4dc 0, #00b3e9 3.33%, #00b1f5 6.67%, #00afff 10%, #00acff 13.33%, #00a9ff 16.67%, #00a5ff 20%, #00a0ff 23.33%, #229bff 26.67%, #6095ff 30%, #848fff 33.33%, #a088ff 36.67%, #b780f5 40%, #ca79e9 43.33%, #db72dc 46.67%, #e86bce 50%, #f365bf 53.33%, #fb61af 56.67%, #ff5e9f 60%, #ff5e8f 63.33%, #ff5f7f 66.67%, #ff6370 70%, #ff6861 73.33%, #fb6d52 76.67%, #f47445 80%, #eb7b38 83.33%, #e1822b 86.67%, #d6881e 90%, #ca8f12 93.33%, #bd9407 96.67%, #af9a03 100%);
+
+}
